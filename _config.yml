@@ -14,10 +14,10 @@ markdown: kramdown
 highlighter: rouge
 
 # if you don't have any of social below, comment the line
-facebook: moyucanchi
+facebook: profile.php?id=100010212194875
 twitter: moyucanchi
 github: moyucanchi
-email: me@jane.doe
+email: moyucanchi@gmail.com
 
 sass:
   sass_dir: _sass
